@@ -1,4 +1,4 @@
-To install this utility refer to the [Installation FAQ](Installation-FAQ)
+To install this utility refer to the [Installation FAQ](Installation-FAQ.md)
 
 Some basic information on how this utility works: 
 
