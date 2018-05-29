@@ -8,7 +8,7 @@ See the releases page for other CRM editions.
 This utility is to be used for editing the CRM maintenance jobs automatically scheduled by the installation of CRM (ie: reindexing job, workflow cleanup, etc). 
 
 # Applies to:
-CRM 2011, 2013, 2015, and 2016 OnPremise and Service Provider Edition - this does not apply to CRM Online. To edit your OrgDBOrgSettings (which apply to OnPrem and Online) visit my other project: https://orgdborgsettings.codeplex.com/
+CRM 2011, 2013, 2015, and 2016 OnPremise and Service Provider Edition - this does not apply to CRM Online. To edit your OrgDBOrgSettings (which apply to OnPrem and Online) visit my other project: https://github.com/seanmcne/orgdborgsettings
 
 # Issue Tracking and Discussions
 There is no official support for this utility (through codeplex.com nor via Microsoft); if you have any issues use the issue tracker to log the problem. This utility is not intended to be a 'community' developed utility but I encourage the community to discuss and comment on this project. When adding Issues please add as much information (including screenshots) to assist me. If you have comments please feel free to contact me via e-mail through this site; or by posting a comment. 
